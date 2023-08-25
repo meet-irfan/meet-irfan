@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet-irfan" alt="meet-irfan" /></a> </p>
 - 🔭 I’m currently working on **BS(Computer Science)**
 
-- 🌱 I’m currently learning **JavaScript, Bootstrap, React, python**
+- 🌱 I’m currently learning ** python , pandas ,Numpy**
 
 - 📫 How to reach me **irfanali.bscsf21kdk@iba-suk.edu.pk**
 
