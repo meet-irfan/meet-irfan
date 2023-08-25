@@ -1,7 +1,7 @@
-![logo](https://github.com/meet-irfan/meet-irfan/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Irfan Ali Narejo</h1>
-<h3 align="center">A passionate website developer from Pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-irfan&label=Profile%20views&color=0e75b6&style=flat" alt="meet-irfan" /> </p>
+<h3 align="center">A passionate Python Developer from Pakistan</h3>
+<p align="left"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet-irfan" alt="meet-irfan" /></a> </p>
 - 🔭 I’m currently working on **BS(Computer Science)**
 
