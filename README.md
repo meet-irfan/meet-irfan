@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 <p align="left"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet-irfan" alt="meet-irfan" /></a> </p>
+
+<img align ="right"  width=" 350"  height =" 300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  alt ="coding">
+
 - 🔭 I’m currently working on **BS(Computer Science)**
 
 - 🌱 I’m currently learning ** python , pandas ,Numpy**
