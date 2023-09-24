@@ -1,3 +1,4 @@
+<img src=" Linked.png" alt="Banner">
 
 <h1 align="center">Hi 👋, I'm Irfan Ali Narejo</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
