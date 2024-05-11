@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Ali Narejo</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 <p align="left"> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet-irfan" alt="meet-irfan" /></a> </p>
+
 
 <img align ="right"  width=" 350"  height =" 300" src="     "  alt ="coding">
 
