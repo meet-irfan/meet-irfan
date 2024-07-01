@@ -4,7 +4,7 @@
 <p align="left"> 
 
 
-<img align ="right"  width=" 350"  height =" 300" src="     "  alt ="coding">
+<img align ="right" alt ="coding" width=" 350"  src="https://github.com/meet-irfan/meet-irfan/assets/107914173/bae58bba-c888-4b3a-9075-dc5633d0fc3e">
 
 - 🔭 I’m currently working on **BS(Computer Science)**
 
