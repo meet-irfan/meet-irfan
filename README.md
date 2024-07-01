@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 <p align="left"> 
 
-
-<img align ="right" alt ="coding" width=" 350"  src="https://github.com/meet-irfan/meet-irfan/assets/107914173/bae58bba-c888-4b3a-9075-dc5633d0fc3e">
+<img align ="right" width=" 400" height="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt ="coding">
 
 - 🔭 I’m currently working on **BS(Computer Science)**
 
